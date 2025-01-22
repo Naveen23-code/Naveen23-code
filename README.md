@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+ - Motivated and eager fresher seeking any role that provides an opportunity for growth and learning.
+ -  Excited to leverage my academic knowledge and continually developing my skills and embracing new challenges and ready to work in stimulating learning environment for developing and putting into practice new ideas to build more interesting projects.
+ -  My Work is based on Web Development.
+ -  Integrating AI that enhances the website integrity and user-experience.
 <!--
 **Naveen23-code/Naveen23-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
